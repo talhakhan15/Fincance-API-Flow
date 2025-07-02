@@ -26,6 +26,21 @@ This repository contains a Python automation script that simulates a complete **
   - IVR Callback Simulation
 
 ---
+# API Automation Tests
+
+This project contains automated API tests built with `pytest` and `allure` to verify the functionality of a loan application workflow.
+
+---
+
+## Prerequisites
+
+- Python 3.8 or higher
+- `pytest`  
+- `requests`  
+- `allure-pytest`  
+- Allure commandline tool (for generating and serving reports)
+
+---
 
 ## 🛠 Requirements
 
